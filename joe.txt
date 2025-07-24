@@ -1,0 +1,92 @@
+
+
+- Sofia local client kon va ecrire 
+connects to the backend via web socket 
+
+w baaden sofia local client qd il prend l data bedon yhotton b open dental 
+
+the most lightweight package for websocket - socketio - flasksocket 
+msh daroure tkoun 1000% real time 
+
+
+
+
+websocket : u need to put events 
+server in flask 
+client language de mon choix  
+
+events sent by the client 
+mini server eendo socket just to test w baaden we willl implement it eend joe 
+server : iibara aan un server that can connects via websocket 
+another route to the server - if i hit the route hi the web socket hsould tell me hi you have hit the route hi 
+
+websocket should be authenticated with client ids : aarf min eeemil (shu min baat hi) jwt token b3ouzo 
+authentication min eemil shu yaamel shi 
+authoriazation : min elo hae yaamel shi 
+
+client : (python - javascript) ta ykoun binary - executable file - exportable sur nimporte quelle machine 
+yaamel run hata law ma aande python aande - nafs l shi la javascript (eno ma eendon yeh l drs )
+type safe code b hayala  language 
+try catch 
+esa la connexion waeafit - il reconnect 
+esa rahit l wifi aw taffa l laptop ma bade alle3a deyman 
+b alli3 on tsratup 
+
+
+
+[x] simple server with tcp connexion  
+[x] simple client (quels languages - executable that should run on hayala shi )
+[] je test aale 
+[] 
+
+
+
+
+
+
+---------------------------------------------------------------------------------
+
+
+
+- start with adapter 
+- joe adapt aa denti 
+
+ill seee the tables and the api routes of denti de leur documentation 
+faire des recherches aa henne kif byemsho et comment integrate avec eux 
+(fetch data men eende w hotton b open dental )
+
+at some point to test i have to download open dental 
+database : mariadb 
+and will test 
+server running aal localhost 
+when i hit routes of api, i will hit the local apis - yeene aa postman aa local host  
+
+
+
+pr commencer a test, je dois aamel kaean already aande dummy data men eend iolokis 
+yeene kaean aande his data w bede kebbon b open dental 
+shuf esa fi same fields w esa fi aeal fields aw aktar fields w hek 
+
+-----------------------------------
+
+implement l proc notes - heyde c les notes tabaa l patients 
+fa nehna kan on transcribe un truc its data bedna nkebon bel notes
+so nehna bedna naamel post aal proc notes  
+comprendre chaque item et chaque field kif byemche
+laean kelshi est relie - yeene majboura shuf all the fields w kel wahad b shu maalae  
+
+
+balish efham pro notes w kelshi b procnotes i search ta shuf c koi 
+reverse rech 
+
+
+------------------------------------------------------------------------------
+to contact opendental : https://opendental.com/site/contact.html 
+to obtain api-key dev : https://opendental.com/site/apisetup.html 
+
+
+
+
+
+
+
